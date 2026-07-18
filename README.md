@@ -4,7 +4,7 @@
 <!--
 
 -->
-**Hello World! I'm Rakean Fatanjala Drajat 👋
+**Hello World! I'm Rakean Fatanjala Drajat 👋**
 ##### 💫 About Me:
 - 🌱 I’m currently learning **Python** And **JavaScript**<br>
 - 👯 I’m looking to collaborate on **Godot**<br>
