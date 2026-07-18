@@ -4,7 +4,7 @@
 <!--
 
 -->
-**Hello World! I'm Rakean Fatanjala Drajat 👋**
+**Hello World! I'm Rakean Fatanjala Drajat 👋
 ##### 💫 About Me:
 - 🌱 I’m currently learning **Python** And **JavaScript**<br>
 - 👯 I’m looking to collaborate on **Godot**<br>
@@ -19,8 +19,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=fatanjala-coder&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fatanjala-coder&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fatanjala-coder&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzat/maurodesouzat/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
