@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World! I'm Rakean Fatanjala Drajat 👋
+![Rakean](img/[github-header-banner.png])
 
 <!--
 **fatanjala-coder/fatanjala-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
