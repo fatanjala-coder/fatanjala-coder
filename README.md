@@ -20,10 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=fatanjala-coder&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fatanjala-coder&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##### 🎶 Spotify
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
