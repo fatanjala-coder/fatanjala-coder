@@ -5,10 +5,6 @@
 
 -->
 **Hello World! I'm Rakean Fatanjala Drajat 👋**
-<div data-importer="image" align="right">
-  <img data-importer="image" height="193" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YxdHA2aDdlZmRxcXY3dGd3am9ub2tybnRza3UyYnhtazJyam02cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O6at21pbtnPtGNKTi/giphy.gif"  />
-</div>
-
 ##### 💫 About Me:
 - 🌱 I’m currently learning **Python** And **JavaScript**<br>
 - 👯 I’m looking to collaborate on **Godot**<br>
