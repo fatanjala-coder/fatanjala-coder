@@ -1,6 +1,6 @@
 <!-- ## Hello World! I'm Rakean Fatanjala Drajat 👋 -->
+![Rakean](picture.jfif)
 
-![Rakean](github-header-banner.png)
 <!--
 
 -->
