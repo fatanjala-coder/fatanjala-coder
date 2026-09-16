@@ -6,8 +6,13 @@
 -->
 **Hello World! I'm Rakean Fatanjala Drajat 👋**
 ##### 💫 About Me:
-- 🌱 I’m currently learning **Python** And **JavaScript**<br>
-- 👯 I’m looking to collaborate on **Godot**<br>
+🎓 **Software Engineering Student**  
+🇮🇩 **Native Indonesian** | 🗣️ **Languages:** Indonesian (Native), English (Conversational)  
+💻 Passionate about **Web Development** and **Game Development**  
+⚡ *Coding with passion and a potato laptop!* 🥔💻
+
+---
+
 
 
 ##### 🌐 Socials:
